@@ -1,0 +1,6 @@
+name: drupal10
+recipe: drupal10
+config:
+  webroot: web
+  via: nginx
+  database: mysql:8.0
